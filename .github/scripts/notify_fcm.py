@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Automated Firebase Cloud Messaging (FCM) Notification Broadcaster
-Triggered by GitHub Actions on push when WallStory catalog is updated.
+Triggered by GitHub Actions on push when Abstrax catalog is updated.
 Broadcasts a push notification to all users subscribed to topic 'wallpapers'.
 """
 
@@ -18,7 +18,7 @@ if hasattr(sys.stderr, "reconfigure"):
     sys.stderr.reconfigure(encoding="utf-8")
 
 def find_catalog_file():
-    candidates = ["Abstrax.json", "wallstory.json", "wallstory", "wallstory.json.txt", "catalog.json"]
+    candidates = ["Abstrax.json", "abstrax.json", "catalog.json"]
     for path in candidates:
         if os.path.exists(path):
             return path
@@ -165,7 +165,7 @@ def main():
 
     catalog_path = find_catalog_file()
     if not catalog_path:
-        print("Could not find catalog file (wallstory.json). Aborting.")
+        print("Could not find catalog file (Abstrax.json). Aborting.")
         sys.exit(0)
 
     print(f"Analyzing catalog: {catalog_path}")
