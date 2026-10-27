@@ -24,6 +24,41 @@
   },
   {
     "author": "Raj Arya",
+    "name": "Silken Steel Depth",
+    "collections": "Crafted",
+    "url": "https://raw.githubusercontent.com/Purv06/Abstrax.github.io/main/Crafted/scene_(5).png",
+    "id": "c3ad06f3075c1636cf233a202c8602a593de83412d4b229eb900dfc524038dde"
+  },
+  {
+    "author": "Raj Arya",
+    "name": "Velvet Shadow Waves",
+    "collections": "Crafted",
+    "url": "https://raw.githubusercontent.com/Purv06/Abstrax.github.io/main/Crafted/scene_(4).png",
+    "id": "966cd2741fcd0edfb934693eccd3a092deb89bda95f5967f009f29fbe2f821ad"
+  },
+  {
+    "author": "Raj Arya",
+    "name": "Emerald Wave",
+    "collections": "Crafted",
+    "url": "https://raw.githubusercontent.com/Purv06/Abstrax.github.io/main/Crafted/scene_(3).png",
+    "id": "70fc864fe5070205ace3552a3a5ce0dd478f5f208461000d4d7c8633adb75fe1"
+  },
+  {
+    "author": "Raj Arya",
+    "name": "Midnight Velvet Waves",
+    "collections": "Crafted",
+    "url": "https://raw.githubusercontent.com/Purv06/Abstrax.github.io/main/Crafted/scene_(2).png",
+    "id": "0c485f226d328053e94445c98ddcd2f936eec1c0c15fe3ec99cc6f7dd6bf5d68"
+  },
+  {
+    "author": "Raj Arya",
+    "name": "Emerald Ocean Depths",
+    "collections": "Crafted",
+    "url": "https://raw.githubusercontent.com/Purv06/Abstrax.github.io/main/Crafted/scene_(1).png",
+    "id": "dc5618d9c75b9cfc40bc634cc7d5e825e00da7c3a9371fcb52d056ad4ce9f5cd"
+  },
+  {
+    "author": "Raj Arya",
     "name": "Velvet Midnight Flow",
     "collections": "Arc",
     "url": "https://raw.githubusercontent.com/Purv06/Abstrax.github.io/main/Arc/scene_(9).png"
